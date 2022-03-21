@@ -1,8 +1,8 @@
 # Federated Learning : vers du Machine Learning plus respectueux de la vie privée ?
 
 ## Table des matières
-1. [Introduction à l'apprentissage fédéré et premiers concepts](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#introduction-%C3%A0-lapprentissage-f%C3%A9d%C3%A9r%C3%A9-et-premiers-concepts)
-2. [Cas d'usages connus de l'apprentissage fédéré](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#cas-dusages-connus-de-lapprentissage-f%C3%A9d%C3%A9r%C3%A9)
+1. [Introduction à l'apprentissage fédéré et premiers concepts](https://github.com/nathanetourneau/Veille-technologique-ECL/#introduction-%C3%A0-lapprentissage-f%C3%A9d%C3%A9r%C3%A9-et-premiers-concepts)
+2. [Cas d'usages connus de l'apprentissage fédéré](https://github.com/nathanetourneau/Veille-technologique-ECL/#cas-dusages-connus-de-lapprentissage-f%C3%A9d%C3%A9r%C3%A9)
 3. [Apprentissage fédéré et respect de la vie privée](https://github.com/nathanetourneau/Veille-technologique-ECL#apprentissage-f%C3%A9d%C3%A9r%C3%A9-et-respect-de-la-vie-priv%C3%A9e)
 4. [Variantes et améliorations proposées](https://github.com/nathanetourneau/Veille-technologique-ECL#variantes-et-am%C3%A9liorations-propos%C3%A9es)
 
