@@ -2,7 +2,7 @@
 
 ## Table des matières
 1. [Introduction à l'apprentissage fédéré et premiers concepts](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#introduction-%C3%A0-lapprentissage-f%C3%A9d%C3%A9r%C3%A9-et-premiers-concepts)
-[Cas d'usages connus de l'apprentissage fédéré](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md##Cas d'usages connus de l'apprentissage fédéré)
+[Cas d'usages connus de l'apprentissage fédéré](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#cas-dusages-connus-de-lapprentissage-f%C3%A9d%C3%A9r%C3%A9)
 [Apprentissage fédéré et respect de la vie privée](https://github.com/nathanetourneau/Veille-technologique-ECL#apprentissage-f%C3%A9d%C3%A9r%C3%A9-et-respect-de-la-vie-priv%C3%A9e)
 [Variantes et améliorations proposées](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md##Variantes et améliorations proposées)
 
