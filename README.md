@@ -6,6 +6,7 @@
 3. [Apprentissage fédéré et respect de la vie privée](#Apprentissage fédéré et respect de la vie privée)
 4. [Variantes et améliorations proposées](#Variantes et améliorations proposées)
 
+<div id='Introduction à l'apprentissage fédéré et premiers concepts'/>
 ## Introduction à l'apprentissage fédéré et premiers concepts
 L'apprentissage fédéré est une technique d'apprentissage automatique proposée par Google en 2016 dans l'article [Communication-Efficient Learning of Deep Networks
 from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), permettant l'apprentissage automatique à partir de données décentralisées, sans transférer les données. L'un des principaux arguments pour cette technique est que l'apprentissage fédéré serait plus respectueux de la vie privée. Dans cette veille, nous allons introduire le sujet, et présenter des ressources permettant de se faire une meilleure idée du sujet, et de répondre à cette question.
@@ -15,7 +16,7 @@ Federated Learning: Collaborative Machine Learning without Centralized Training 
 
 Dans un [article de journal en coopération avec le Wall Street Journal](https://deloitte.wsj.com/articles/keeping-ai-private-homomorphic-encryption-federated-learning-01644518384), l'entreprise présente son point de vue sur pourquoi cette technologie (couplée à une technique que nous présenterons plus bas) sera très importante dans le futur, notamment pour répondre aux contraintes liées aux lois type RGPD.
 
-
+<div id='Cas d'usages connus de l'apprentissage fédéré'/>
 ## Cas d'usages connus de l'apprentissage fédéré
 Dans cette section, nous allons voir des ressources permettant de mieux comprendre les cas d'usage de l'apprentissage fédéré. De nombreuses entreprises revendiquent utiliser l'apprentissage fédéré, mais ne communiquent pas dessus. D'autres secteurs pourraient en profiter (banques, assurances, mutuelles, justice, autorités financières, constructeurs de smartphones, ), mais pas de réelle application est connue à ce jour.
 
@@ -47,13 +48,14 @@ Nvidia utilise l'apprentissage fédéré pour des applications médicales grâce
 #### Owkin
 Owkin est une start-up française qui implémente des modèles d'apprentissage fédéré pour exploiter les données décentralisées des hôpitaux. Dans [un billet de blog](https://owkin.com/publications-and-news/blogs/federated-learning-in-healthcare-the-future-of-collaborative-clinical-and-biomedical-research), la start-up présente sa vision de l'apprentissage fédéré dans le domaine médical. Dans un [autre billet de blog très intéressant](https://owkin.com/publications-and-news/blogs/story-of-the-1st-federated-learning-model-at-owkin), elle présente également comment ils ont implémenté leur premier modèle d'apprentissage fédéré pour la santé.
 
+<div id='Apprentissage fédéré et respect de la vie privée'/>
 ## Apprentissage fédéré et respect de la vie privée
 En l'état, l'apprentissage fédéré n'est pas totalement respectueux de la vie privée, [cet article](https://www.kdnuggets.com/2020/08/breaking-privacy-federated-learning.html) permet de mieux comprendre pourquoi. Plusieurs techniques permettent de pallier ces défaillances : la méthode d'aggrégation des gradients des clients peut être rendue plus robuste, selon la méthode développée dans [cet article](https://research.google/pubs/pub45808/). On peut ajouter des techniques dites de differential privacy, comme on peut l'étudier dans le [cours d'Aurélien Bellet](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html) à l'université de Lille. Apple a également publié [un article](https://machinelearning.apple.com/research/learning-with-privacy-at-scale) pour illustrer comment la differential privacy est utilisée dans leurs services. Une couche d'encryption homéomorphique est fréquemment ajoutée, [cet article de Nvidia](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/) permet d'en apprendre plus à ce sujet.
 
 Un champ de recherche actif de l'apprentissage fédéré est l'étude de sa robustesse aux attaques. Cela peut être une attaque d'un client prenant part à l'apprentissage, comme une attaque du serveur. Cela peut être des attaques franches, ou simplement voir la quantité d'information à laquelle un agent non-malicieux mais curieux peut accéder. Ce [thread twitter](https://twitter.com/jonasgeiping/status/1495803744054910981), ainsi que le [repo GitHub associé](https://github.com/JonasGeiping/breaching) sont très instructifs à ce sujet. Le site KDNuggets propose également [un article](https://www.kdnuggets.com/2020/08/breaking-privacy-federated-learning.html) permettant de mieux comprendre cette thématique sans se plonger dans le code ou les articles de recherche.
 
 
-
+<div id='Variantes et améliorations proposées'/>
 ## Variantes et améliorations proposées
 
 ### Federated Learning at scale et personnalisation
