@@ -1,5 +1,11 @@
 # Federated Learning : vers du Machine Learning plus respectueux de la vie privée ?
 
+## Table des matières
+1. [Introduction à l'apprentissage fédéré et premiers concepts](#Introduction à l'apprentissage fédéré et premiers concepts)
+2. [Cas d'usages connus de l'apprentissage fédéré](#Cas d'usages connus de l'apprentissage fédéré)
+3. [Apprentissage fédéré et respect de la vie privée](#Apprentissage fédéré et respect de la vie privée)
+4. [Variantes et améliorations proposées](#Variantes et améliorations proposées)
+
 ## Introduction à l'apprentissage fédéré et premiers concepts
 L'apprentissage fédéré est une technique d'apprentissage automatique proposée par Google en 2016 dans l'article [Communication-Efficient Learning of Deep Networks
 from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), permettant l'apprentissage automatique à partir de données décentralisées, sans transférer les données. L'un des principaux arguments pour cette technique est que l'apprentissage fédéré serait plus respectueux de la vie privée. Dans cette veille, nous allons introduire le sujet, et présenter des ressources permettant de se faire une meilleure idée du sujet, et de répondre à cette question.
