@@ -1,9 +1,9 @@
 # Federated Learning : vers du Machine Learning plus respectueux de la vie privée ?
 
 ## Table des matières
-[Introduction à l'apprentissage fédéré et premiers concepts](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#introduction-%C3%A0-lapprentissage-f%C3%A9d%C3%A9r%C3%A9-et-premiers-concepts)
+1. [Introduction à l'apprentissage fédéré et premiers concepts](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md#introduction-%C3%A0-lapprentissage-f%C3%A9d%C3%A9r%C3%A9-et-premiers-concepts)
 [Cas d'usages connus de l'apprentissage fédéré](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md##Cas d'usages connus de l'apprentissage fédéré)
-[Apprentissage fédéré et respect de la vie privée](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md##Apprentissage fédéré et respect de la vie privée)
+[Apprentissage fédéré et respect de la vie privée](https://github.com/nathanetourneau/Veille-technologique-ECL#apprentissage-f%C3%A9d%C3%A9r%C3%A9-et-respect-de-la-vie-priv%C3%A9e)
 [Variantes et améliorations proposées](https://github.com/nathanetourneau/Veille-technologique-ECL/blob/main/README.md##Variantes et améliorations proposées)
 
 ## Introduction à l'apprentissage fédéré et premiers concepts
@@ -15,7 +15,6 @@ Federated Learning: Collaborative Machine Learning without Centralized Training 
 
 Dans un [article de journal en coopération avec le Wall Street Journal](https://deloitte.wsj.com/articles/keeping-ai-private-homomorphic-encryption-federated-learning-01644518384), l'entreprise présente son point de vue sur pourquoi cette technologie (couplée à une technique que nous présenterons plus bas) sera très importante dans le futur, notamment pour répondre aux contraintes liées aux lois type RGPD.
 
-<div id='Cas d'usages connus de l'apprentissage fédéré'/>
 ## Cas d'usages connus de l'apprentissage fédéré
 Dans cette section, nous allons voir des ressources permettant de mieux comprendre les cas d'usage de l'apprentissage fédéré. De nombreuses entreprises revendiquent utiliser l'apprentissage fédéré, mais ne communiquent pas dessus. D'autres secteurs pourraient en profiter (banques, assurances, mutuelles, justice, autorités financières, constructeurs de smartphones, ), mais pas de réelle application est connue à ce jour.
 
